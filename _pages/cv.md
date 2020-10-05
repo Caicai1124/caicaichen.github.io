@@ -11,23 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics and Computer Science, Bocconi University, 2020-Current
-* M.S. in New York University, 2014-2016
-* B.s. in Wuhan University, 2007-2011
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Software Development Engineer, Huawei Technologies, China, 2011-2013
-  * Duties included: Customize Linux Kernel for ARM, X86 processors
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-* Software Development Engineer, Amazon, United States, 2016-2020
-  * Duties included: Build and maintain recommendation system for Amazon 3rd party sellers
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
 Skills
 ======
-* Programming Language: C, Java, Python, SQL
-* Languages: Chinese(mothertongue), English
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-Interests and Activities
+Publications
 ======
-* Sports, Movies, Travelling, Baking
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
