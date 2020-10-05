@@ -12,6 +12,6 @@ I am a first year PhD student in Statistics and Computer Science at Bocconi Univ
 
 Research Interests
 ======
-Machine Learning
-Artificial Intelligence
-Algorithms
+* Machine Learning
+* Artificial Intelligence
+* Algorithms
