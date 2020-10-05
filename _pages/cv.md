@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics and Computer Science, Bocconi University, 2020-Current
-* M.S. in New York University, 2014-2016
-* B.S. in Wuhan University, 2007-2011
+* M.S. in Computer Science, New York University, 2014-2016
+* B.S. in Mathematics, Wuhan University, 2007-2011
 
 Work experience
 ======
